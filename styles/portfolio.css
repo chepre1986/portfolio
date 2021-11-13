@@ -1,0 +1,13 @@
+:root{
+    --h1-font: 'Roboto', sans-serif;
+    --button-font: 'Montserrat', sans-serif;
+    
+}
+body{
+    background: #202020;
+    color: #FFFFFF;
+}
+
+h1, p{
+    font-family: var(--h1-font);
+}
